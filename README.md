@@ -1,3 +1,3 @@
 # EDA
 
-Performing Explorartory Data Analysis on the dataset "VerbAgg" using python.
+Performing Exploratory Data Analysis on the dataset "VerbAgg" using python.
